@@ -18,7 +18,7 @@
   "homepage": "https://github.com/njcolvin/OdderJobs#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "browser-sync": "^2.26.7",
     "jquery": "^3.4.1",
     "jwt-decode": "^2.2.0",
